@@ -1,0 +1,11 @@
+Post：
+    Lens:
+        Bloom:
+            Intensity:0
+        Exposure:
+            ExposureCompensation:0
+        ImageEffects:
+            VignetteIntensity:0
+    ColorGrading:
+        Misc:
+            ToneCurveAmount:0
