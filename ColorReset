@@ -8,4 +8,5 @@ Post：
             VignetteIntensity:0
     ColorGrading:
         Misc:
+            ExpandGamut:0
             ToneCurveAmount:0
